@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Penawaran Khusus';
+$_['heading_title']     = 'Harga spesial';
 
 // Text
 $_['text_empty']        = 'Tidak ada ada penawaran khusus produk.';
